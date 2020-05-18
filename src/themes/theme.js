@@ -5,7 +5,8 @@ export default {
   },
   colors: {
     main1: "hsl(207, 70%, 59%)",
-    main1: "hsl(207, 70%, 94%)",
+    main2: "hsl(207, 70%, 94%)",
+    light: "hsl(207, 70%, 94%)",
   },
   breakpoints: {
     mobile: "only screen and (max-width: 50rem)",
